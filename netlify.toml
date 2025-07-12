@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/wdo"
+  to = "/index.html"
+  status = 200
